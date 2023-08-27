@@ -2,7 +2,7 @@
 <h3 align="center">A passionate computer science student from India &#127470;&#127475;.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480" height="270" alt="GIF" align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="270" alt="GIF" align="right">
 </p>
 
 - 🔭 I’m currently studying at <a href="https://www.bennett.edu.in/" target="blank">Bennett University</a>
