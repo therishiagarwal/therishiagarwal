@@ -64,10 +64,10 @@
 
 
 <div align="center">
-<!--   <h1>Github Stats⚡️</h1>
+  <h1>Github Stats⚡️</h1>
 
   [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=therishiagarwal&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   [![Rishi Agarwal's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=therishiagarwal&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=therishiagarwal&theme=tokyonight)](https://git.io/streak-stats) -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=therishiagarwal&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 <br />
