@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/rishi-agarwal-66a467232/" target="_blank">Rishi Agarwal</a></h1>
+<!-- <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/rishi-agarwal-66a467232/" target="_blank">Rishi Agarwal</a></h1>
 <h3 align="center">A passionate computer science student from India &#127470;&#127475;.</h3>
 
 <p align="center">
@@ -70,4 +70,4 @@
   [![Rishi Agarwal's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=therishiagarwal&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=therishiagarwal&theme=tokyonight)](https://git.io/streak-stats)
 </div>
-<br />
+<br /> -->
