@@ -1,4 +1,4 @@
-<strong><h2>Check out my portfolio: <a href="https://therishiagarwal.github.io">therishiagarwal.github.io</a></h2></strong>
+<!-- <strong><h2>Check out my portfolio: <a href="https://therishiagarwal.github.io">therishiagarwal.github.io</a></h2></strong> --!>
 
 <!-- <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/rishi-agarwal-66a467232/" target="_blank">Rishi Agarwal</a></h1>
 <h3 align="center">A passionate computer science student from India &#127470;&#127475;.</h3>
